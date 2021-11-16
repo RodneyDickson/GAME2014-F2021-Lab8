@@ -2,8 +2,8 @@
     "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
-        "name": "ca.RodneyDickson101068801.GAME2014F2021Lab6",
-        "processId": 3201,
+        "name": "com.RodneyDickson101068801.GAME2014F2021Lab8",
+        "processId": 3682,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,12 @@
             "deviceId": "emulator-5554",
             "name": "ca.RodneyDickson101068801.GAME2014F2021Lab6",
             "processId": 3201,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.RodneyDickson101068801.GAME2014F2021Lab8",
+            "processId": 3682,
             "exited": false
         }
     ],
